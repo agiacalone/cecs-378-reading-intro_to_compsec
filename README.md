@@ -21,7 +21,7 @@ Answer the following questions from the Chapter 2, 20, and 21 reading from your 
       
 6. Padding may not always be appropriate. For example, one might wish to store the encrypted data in the same memory buffer that originally contained the plaintext. In that case, the ciphertext must be the same length as the original plaintext. A mode for that purpose is the ciphertext stealing (CTS) mode. Figure 20.12a on pg. 633 in CSPaP shows an implementation of this mode.
    1. Explain how it works.
-   2. Describe how to decrypt Cn−1 and Cn.
+   2. Describe how to decrypt `Cn−1` and `Cn`.
 
 7. It is possible to use a hash function to construct a block cipher with a structure similar to DES. Because a hash function is one way and a block cipher must be reversible (to decrypt), how is it possible?
 
