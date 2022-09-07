@@ -1,4 +1,4 @@
-# CECS 378 Reading Assignment: Introduction to Computer Security\
+# CECS 378 Reading Assignment: Introduction to Computer Security
 ## 20 Points
 
 ### Assignment Description
