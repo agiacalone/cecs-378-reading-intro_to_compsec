@@ -1,5 +1,4 @@
 # CECS 378 Reading Assignment: Introduction to Computer Security
-## 20 points
 
 ### Assignment Description
 Answer the following questions from the chapter 1 reading ftyprom your textbook. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
