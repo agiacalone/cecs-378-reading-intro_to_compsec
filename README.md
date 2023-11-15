@@ -42,6 +42,7 @@ Answer the following questions from the chapter 1 reading ftyprom your textbook.
     (Hint: Consider the design principle of fail-safe defaults).
 
 ## Deliverables
+
 Commit the answers to the questions in a readable file to your git repository by the due date and time indicated with your repository on GitHub Classroom. The only approved file submission format is Markdown. Other formats will only be accepted with explicit approval.
 
 ### Please note:
