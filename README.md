@@ -16,15 +16,23 @@ Answer the following questions from the chapter 1 reading from your textbook. Yo
 6. List and briefly define the fundamental security design principles.
 
 7. Consider a desktop publishing system used to produce documents for various organizations.
+    
     1. Give an example of a type of publication for which confidentiality of the stored data is the most important requirement.
+    
     2. Give an example of a type of publication in which data integrity is the most important requirement.
+    
     3. Give an example in which system availability is the most important requirement.
 
 8. For each of the following assets, assign a low, moderate, or high impact level for the loss of confidentiality, availability, and integrity, respectively. Justify your answers.
+    
     1. An organization managing public information on its Web server.
+    
     2. A law enforcement organization managing extremely sensitive investigative information.
+    
     3. A financial organization managing routine administrative information (not privacy-related information).
+    
     4. An information system used for large acquisitions in a contracting organization contains both sensitive, pre-solicitation phase contract information and routine administrative information. Assess the impact for the two data sets separately and the information system as a whole.
+    
     5. A power plant contains a SCADA (supervisory control and data acquisition) system con- trolling the distribution of electric power for a large military installation. The SCADA system contains both real-time sensor data and routine administrative information. Assess the impact for the two data sets separately and the information system as a whole.
 
 9. Develop an attack tree for gaining access to the contents of a physical safe.
@@ -39,6 +47,7 @@ Answer the following questions from the chapter 1 reading from your textbook. Yo
     }
     ```
     1. Explain the security flaw in this program.
+ 
     2. Rewrite the code to avoid the flaw
     (Hint: Consider the design principle of fail-safe defaults).
 
