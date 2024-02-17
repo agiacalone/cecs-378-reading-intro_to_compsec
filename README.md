@@ -30,7 +30,8 @@ Answer the following questions from the chapter 1 reading from your textbook. Yo
 9. Develop an attack tree for gaining access to the contents of a physical safe.
 
 10. Consider the following general code for allowing access to a resource:
-    ```
+ 
+    ``` C
     DWORD dwRet = IsAccessAllowed(...);
     if (dwRet == ERROR_ACCESS_DENIED) { // Security check failed.
     // Inform user that access is denied. } else {
