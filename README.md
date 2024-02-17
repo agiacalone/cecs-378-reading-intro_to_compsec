@@ -41,11 +41,11 @@ Answer the following questions from the chapter 1 reading from your textbook. Yo
     2. Rewrite the code to avoid the flaw
     (Hint: Consider the design principle of fail-safe defaults).
 
-## Deliverables
+### Deliverables
 
 Commit the answers to the questions in a readable file to your git repository by the due date and time indicated with your repository on GitHub Classroom. The only approved file submission format is Markdown. Other formats will only be accepted with explicit approval.
 
-### Please note:
+#### Please note:
 
 * Your writeup file *must* be done in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) format and must be included in the repository as a separate file. View the file [`README.md`](README.md?plain=1) for an example of Markdown.
 * Any included images or screenshots should be done in `*.jpg`, `*.png`, or `*.gif` formats, and be included individually as files in your repository (i.e. no binary ‘document’ with the images pasted inside).
